@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gogthefrog123.aternos.me:24493",
+    "ip": "gogthefrog123.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
